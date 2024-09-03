@@ -5,6 +5,11 @@ app_description = "library management"
 app_email = "isdoramanga13@gmail.com"
 app_license = "mit"
 
+
+website_routes = [
+    {"from_route": "/articles", "to_route": "articles"}
+]
+
 # Apps
 # ------------------
 
